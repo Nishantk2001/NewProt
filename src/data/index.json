@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "As a Frontend Developer, I specialize in crafting engaging and responsive user interfaces using the latest web technologies. Proficient in HTML, CSS, and JavaScript.I am well-versed in popular frontend libraries and frameworks such as React.js, Vue.js, and Angular, leveraging their power to create dynamic and interactive web applications."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "My Backend Development skills empower me to build robust and scalable server-side solutions. I am experienced in working with server-side languages like Node.js, Python, and Ruby, and proficient in designing RESTful APIs. Database management is a forte, with expertise in both SQL (e.g., MySQL, PostgreSQL) and NoSQL (e.g., MongoDB) databases."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "With a keen eye for aesthetics and usability, I excel in UI Design. I leverage design principles and user experience (UX) methodologies to create visually appealing interfaces that enhance user satisfaction. Proficient in tools like Adobe XD, Figma, and Sketch, I transform wireframes into polished designs, ensuring a seamless and visually pleasing user journey."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "WebFlow Development is a key aspect of my skill set. I harness the power of WebFlow, a no-code platform, to design, prototype, and develop responsive websites without the need for extensive coding. My expertise in WebFlow allows me to rapidly create and iterate on designs, providing clients and users with visually stunning and functionally sound web experiences."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
